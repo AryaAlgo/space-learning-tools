@@ -1,0 +1,14 @@
+BSERC GenAI Internship — Week 1, Project 2
+Project: Space Learning Tools — 3 Interactive HTML Pages on ISRO and the Solar System
+
+Prompt 1 — Solar System Explorer
+Create one complete, responsive HTML file with embedded CSS and JavaScript for an educational Solar System Explorer. Include clickable planet controls, planet facts, a planet selector, an illustration scale slider, a compare control, reset control, and a multiple-choice quiz with score feedback. Ensure all controls work on mobile and desktop. Use clear educational language and state that the model is schematic and not to scale. Do not require external libraries or internet access.
+
+Prompt 2 — ISRO Mission Explorer
+Create one complete, responsive HTML file with embedded CSS and JavaScript for an ISRO Mission Explorer. Include searchable and filterable mission cards, detail views, a reset filter button, and a multiple-choice quiz with feedback and scoring. Include Chandrayaan-1, Chandrayaan-2, Chandrayaan-3, Mars Orbiter Mission, Aditya-L1, AstroSat, RISAT series, and NavIC. Use concise summaries and indicate that official ISRO resources should be consulted for current updates. Ensure every button and filter works without external libraries.
+
+Prompt 3 — Space Learning Dashboard
+Create one complete, responsive HTML file with embedded CSS and JavaScript for a space learning dashboard. Include a topic checklist, progress bar, reset and mark-all buttons, interactive flashcards with previous/next/flip controls, and a multiple-choice quiz with answer selection, score, accuracy, and restart functionality. Ensure all controls work on mobile and desktop and do not require external libraries.
+
+Final testing / improvement prompt
+Review each HTML file for working controls, readable mobile layout, accessible labels, correct quiz scoring, and JavaScript errors. Fix any issues and return the complete HTML file. Use only self-contained HTML, CSS, and JavaScript; no external dependencies.
